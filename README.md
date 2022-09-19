@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adheesha-chamod
 - 👀 I'm a 2nd-year undergraduate at the University of Colombo School of Computing 
-- 🌱 I’m currently learning Scala, HTML, CSS, JavaScript, ...
+- 🌱 I follow a computer science degree program.
 - 📫 Anyone who is interested, can contact me using my email -> adheeshachamoddesilva@gmail.com
 
 <!---
