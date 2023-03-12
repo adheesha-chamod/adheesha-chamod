@@ -1,7 +1,6 @@
 - Hi, I’m @adheesha-chamod
 - I'm a 2nd-year undergraduate at the University of Colombo School of Computing 
-- I follow a computer science degree program.
-- Email -> adheeshachamoddesilva@gmail.com
+- Currently, I follow the computer science degree program.
 
 <!---
 adheesha-chamod/adheesha-chamod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
