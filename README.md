@@ -1,5 +1,5 @@
 - Hi, I’m @adheesha-chamod
-- I'm a 2nd-year undergraduate at the University of Colombo School of Computing 
+- I'm a 3rd-year undergraduate at the University of Colombo School of Computing 
 - Currently, I follow the computer science degree program.
 
 <!---
