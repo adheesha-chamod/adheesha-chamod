@@ -10,7 +10,7 @@
 - Full stack development and UI/UX Designing
 - Aspiring to become a proficient software engineer
 
-#### 🎬 Personal Side:
+#### 🌌 Personal Side:
 - Enjoying sci-fi movies and TV series during leisure hours
 - Keen interest in nurturing both mental and physical well-being
 
