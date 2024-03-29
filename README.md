@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Adheesha Chamod</h1>
-<h3 align="center">Software Engineer Intern @ X-Venture</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Adheesha</h1>
+    
+<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engineer Intern @ X-Venture <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adheesha-chamod&label=Profile%20views&color=0e75b6&style=flat" alt="adheesha-chamod" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adheesha-chamod" alt="adheesha-chamod" /></a> </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">⚡️Languages and Tools⚡️</h3><
 <p align="center">
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin: 0 20px;"/></a>&nbsp;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin: 0 20px;"/></a>&nbsp;
@@ -30,7 +31,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 0 20px;"/></a>
 </p>
 
-<h3 align="center">Profile Stats</h3>
+<h3 align="center">⚡️Profile Stats⚡️</h3>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adheesha-chamod&show_icons=true&locale=en" alt="adheesha-chamod" />
 </p>
@@ -39,4 +40,10 @@
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adheesha-chamod&show_icons=true&locale=en&layout=compact" alt="adheesha-chamod" />
+</p>
+
+<h3 align='center'>⚡️Stay awesome!⚡️</h3>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
