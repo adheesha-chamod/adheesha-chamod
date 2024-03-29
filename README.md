@@ -5,25 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adheesha-chamod" alt="adheesha-chamod" /></a> </p>
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@adheeshachamoddesilva)
-
-- 📫 How to reach me **adheeshachamoddesilva@gmail.com**
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/adheesha-chamod" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="adheesha-chamod" height="30" width="40" /></a>
-    &nbsp; <!-- Non-breaking space for gap -->
-    <a href="https://medium.com/@adheeshachamoddesilva" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="@adheeshachamoddesilva" height="30" width="40" /></a>
-    &nbsp; <!-- Non-breaking space for gap -->
-    <a href="https://instagram.com/_adheesha.c_" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="_adheesha.c_" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>&nbsp;
