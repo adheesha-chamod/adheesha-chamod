@@ -5,8 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adheesha-chamod" alt="adheesha-chamod" /></a> </p>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>&nbsp;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;
@@ -32,10 +32,11 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adheesha-chamod&show_icons=true&locale=en" alt="adheesha-chamod" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adheesha-chamod&" alt="adheesha-chamod" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adheesha-chamod&" alt="adheesha-chamod" />
+    
 </p>
 
 <p align="center">
