@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Adheesha</h1>
     
-<h3 align="center">Software Engineer Intern @ X-Venture</h3>
+<h3 align="center">Software Engineer @ X-Venture</h3>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adheesha-chamod" alt="adheesha-chamod" /></a>
